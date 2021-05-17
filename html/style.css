@@ -1,16 +1,51 @@
 .jumbotron {
   padding-top: 6rem;
-  background-color: #E8F0FF;
+  background-color: #e8f0ff;
 }
 
 .jumbotron img {
-	margin-bottom: 200px;
+  margin-bottom: 100px;
 }
 
 .footer {
-  background-color: #E8F0FF;
+  background-color: #e8f0ff;
 }
 
 section {
   padding-top: 5rem;
+  padding-bottom: 10rem;
+}
+
+.search-box {
+  position: absolute;
+  top: 500px;
+  left: 300px;
+}
+.search-box input {
+  height: 42px;
+  width: 550px;
+  border-radius: 20px;
+  padding-left: 50px;
+}
+
+.search-box button {
+  position: absolute;
+  width: 160px;
+  height: 42px;
+  border-radius: 10px;
+  left: 600px;
+  font-size: large;
+  border-color: #3c9dfe;
+  background-color: #3c9dfe;
+}
+
+.bi-search {
+  position: absolute;
+  top: 510px;
+  left: 315px;
+  color: black;
+}
+
+.footer p {
+  padding-top: 20px;
 }

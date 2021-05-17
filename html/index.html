@@ -7,6 +7,7 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous" />
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css" />
 
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.0/font/bootstrap-icons.css" />
@@ -18,13 +19,17 @@
   </head>
   <body id="home">
     <!-- Navbar -->
- 
+
     <!-- Akhir Navbar -->
 
     <!-- Jumbotron -->
     <section class="jumbotron text-center">
-      <img src="img/1.png" alt="Bunga" width="450"  />
-      
+      <img src="img/1.png" alt="Bunga" width="450" />
+      <div class="search-box">
+        <input type="text" />
+        <button type="button" class="btn btn-primary">Cari</button>
+      </div>
+      <i class="bi bi-search"></i>
     </section>
     <!-- Akhir Jumbotron -->
 
@@ -36,42 +41,19 @@
             <h2>Hasil Pencarian</h2>
           </div>
         </div>
-        <div class="row fs-5 ">
+        <div class="row fs-5">
           <div class="col-md-5">
             <p>
               Menampilkan pencarian dari :
-			  <br>
-			  Total hasil pencarian                :
+              <br />
+              Total hasil pencarian :
             </p>
           </div>
-		
         </div>
-		<div class="row fs-5 ">
-		<table class="table">
-		 
-		  <tbody>
-			<tr>
-			  
-			  <td>Minuman</td>
-			  <td>:	Cendol</td>
-			</tr>
-			<tr>
-			  <td>Jacob</td>
-			  <td>Thornton</td>
-			</tr>
-			<tr>
-			  <td>Larry</td>
-			  <td>the Bird</td>
-			</tr>
-		  </tbody>
-		</table>
-		</div>
+        <div class="row fs-5"></div>
       </div>
-      
     </section>
     <!-- Akhir About -->
-
-    
 
     <!-- Footer -->
     <footer class="footer text-black text-center pb-3">
