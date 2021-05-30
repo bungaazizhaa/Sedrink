@@ -1,0 +1,12 @@
+PREFIX p: <http://sedrinks.com>
+PREFIX d: <http://sedrinks.com/ns/data#>
+
+    SELECT ?Minuman ?jenisMinuman ?Pemanis ?Usia
+    WHERE
+    { 
+        ?s  d:namaMinuman ?Minuman ;
+            d:jenisMinuman ?jenisMinuman;
+            d:Pemanis ?Pemanis;
+            d:Usia ?Usia;
+
+    }

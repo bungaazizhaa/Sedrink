@@ -1,0 +1,254 @@
+@prefix p: <http://sedrinks.com>
+@prefix d: <http://sedrinks.com/ns/data#>
+
+p:P01        d:namaMinuman	        "Jus Alpukat" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P02        d:namaMinuman	        "Jus Jambu" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             
+
+p:P03        d:namaMinuman	        "Jus Apel" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             
+
+p:P04        d:namaMinuman	        "Jus Sirsak" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P05        d:namaMinuman	        "Jus Mangga" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P06        d:namaMinuman	        "Milkshake Vanila" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P07        d:namaMinuman	        "Milkshake Coklat" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P08        d:namaMinuman	        "Milkshake Strawberry" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P09         d:namaMinuman	        "Milkshake Greentea" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P10        d:namaMinuman	        "Milkshake Taro" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P11        d:namaMinuman	        "Wedang Jahe" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P12        d:namaMinuman	        "Wedang Ronde" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P13        d:namaMinuman	        "Kopi Hitam" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Dewasa".
+
+p:P14        d:namaMinuman	        "Kopi Americano" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P15        d:namaMinuman	        "Kopi Espresso" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P16        d:namaMinuman	        "Kopi Cappucino" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Dewasa".
+
+p:P17        d:namaMinuman	        "Kopi Affogato" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "es krim" ;
+             d:Usia                 "Dewasa".
+
+p:P18        d:namaMinuman	        "Chatime Hazelnut Milk Tea" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P19        d:namaMinuman	        "Chatime Brown Sugar" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula merah" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P20        d:namaMinuman	        "Chatime Roasted Milk Tea" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P21        d:namaMinuman	        "Chatime Jasmine Green Tea" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P22        d:namaMinuman	        "Chatime Caramel Milk Tea" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P23        d:namaMinuman	        "Es Krim" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P24        d:namaMinuman	        "Es Doger" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu, Gula Merah" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P25        d:namaMinuman	        "Es Cincau" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu, Gula Merah" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P26        d:namaMinuman	        "Es Kelapa" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P27        d:namaMinuman	        "Es Cendol" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Gula Merah" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P28        d:namaMinuman	        "Es Goyobod" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P29        d:namaMinuman	        "Es Podeng" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P30        d:namaMinuman	        "Es Teller" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P31        d:namaMinuman	        "Teh Manis" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P32        d:namaMinuman	        "Teh Chamomile" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P33        d:namaMinuman	        "Teh Oolong" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Dewasa, Lanjut Usia".
+
+p:P34        d:namaMinuman	        "Teh Peppermint" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+p:P35        d:namaMinuman	        "Teh Jahe" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P36        d:namaMinuman	        "Teh Hitam" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Dewasa".
+
+p:P37        d:namaMinuman	        "Beer Lager" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P38        d:namaMinuman	        "Beer Ale" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Sari Buah" ;
+             d:Usia                 "Dewasa".
+
+p:P39        d:namaMinuman	        "Beer Pilsner" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P40        d:namaMinuman	        "Beer Strout" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P41        d:namaMinuman	        "Beer Cider" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P42        d:namaMinuman	        "Amer Orangtua" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P43        d:namaMinuman	        "Amer Colombus" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Dewasa".
+
+p:P44        d:namaMinuman	        "Bajigur" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Dewasa".
+
+p:P45        d:namaMinuman	        "Air Putih" ;
+             d:JenisMinuman       	"Minuman Normal" ;
+             d:Pemanis              "-" ;
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+
+p:P46        d:namaMinuman	        "Macchiato" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Dewasa".
+
+p:P47        d:namaMinuman	        "Flat White" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Dewasa".
+
+p:P48        d:namaMinuman	        "Teh Ginseng" ;
+             d:JenisMinuman       	"Minuman Panas" ;
+             d:Pemanis              "Gula Pasir" ;
+             d:Usia                 "Dewasa, Lanjut Usia".
+
+p:P49        d:namaMinuman	        "Es Milo" ;
+             d:JenisMinuman       	"Minuman Dingin" ;
+             d:Pemanis              "Susu" ;
+             d:Usia                 "Anak-anak, Dewasa".
+
+
+
+             
+
