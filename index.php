@@ -31,13 +31,15 @@
       PREFIX p: <http://sedrinks.com>
       PREFIX d: <http://sedrinks.com/ns/data#>
 
-    SELECT ?Minuman ?JenisMinuman ?Pemanis ?Usia
-    WHERE
-    { 
-        ?s  d:namaMinuman ?Minuman ;
-            d:JenisMinuman ?JenisMinuman;
-            d:Pemanis ?Pemanis;
-            d:Usia ?Usia;
+      SELECT ?Minuman ?jenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia 
+      WHERE
+      { 
+          ?s  d:namaMinuman ?Minuman ;
+              d:jenisMinuman ?jenisMinuman;
+              d:Pemanis ?Pemanis;
+              d:Pengawet ?Pengawet;
+              d:Usia ?Usia;
+              d:Tersedia ?Tersedia;
               FILTER regex(?Minuman,  '$test')
       
       }
@@ -50,16 +52,17 @@
       PREFIX p: <http://sedrinks.com>
       PREFIX d: <http://sedrinks.com/ns/data#>
 
-    SELECT ?Minuman ?JenisMinuman ?Pemanis ?Usia
-    WHERE
-    { 
-        ?s  d:namaMinuman ?Minuman ;
-            d:JenisMinuman ?JenisMinuman;
-            d:Pemanis ?Pemanis;
-            d:Usia ?Usia;
-
-    }
-
+      SELECT ?Minuman ?jenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia
+      WHERE
+      { 
+          ?s  d:namaMinuman ?Minuman ;
+              d:jenisMinuman ?jenisMinuman;
+              d:Pemanis ?Pemanis;
+              d:Pengawet ?Pengawet;
+              d:Usia ?Usia;
+              d:Tersedia ?Tersedia;
+              
+      }
 
             "
     );
@@ -312,9 +315,15 @@
         
           <div class="header-data"> <b>Pemanis :</b></div>
           <div class="item-data"><?= $dat['Pemanis'] ?></div>
+
+          <div class="header-data"> <b>Pengawet :</b></div>
+          <div class="item-data"><?= $dat['Pengawet'] ?></div>
         
           <div class="header-data"> <b>Usia :</b></div>
           <div class="item-data"><?= $dat['Usia'] ?></div>
+
+          <div class="header-data"> <b>Tersedia Di :</b></div>
+          <div class="item-data"><?= $dat['Tersedia'] ?></div>
         
       </ul>
 

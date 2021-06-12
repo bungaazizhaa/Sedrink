@@ -3,250 +3,369 @@
 
 p:P01        d:namaMinuman	        "Jus Alpukat" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Outlet Jus, Food Court, Restaurant, Cafe".
 
 p:P02        d:namaMinuman	        "Jus Jambu" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
-             
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Outlet Jus, Food Court, Restaurant, Cafe".            
 
 p:P03        d:namaMinuman	        "Jus Apel" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
-             
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Outlet Jus, Food Court, Restaurant, Cafe".            
 
 p:P04        d:namaMinuman	        "Jus Sirsak" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Outlet Jus, Food Court, Restaurant, Cafe".
 
 p:P05        d:namaMinuman	        "Jus Mangga" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
-
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Outlet Jus, Food Court, Restaurant, Cafe".
+             
 p:P06        d:namaMinuman	        "Milkshake Vanila" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu";
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Restaurant, Cafe".
 
 p:P07        d:namaMinuman	        "Milkshake Coklat" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Restaurant, Cafe".
 
 p:P08        d:namaMinuman	        "Milkshake Strawberry" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Restaurant, Cafe".
 
-p:P09         d:namaMinuman	        "Milkshake Greentea" ;
+p:P09        d:namaMinuman	        "Milkshake Greentea" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Restaurant, Cafe".
 
 p:P10        d:namaMinuman	        "Milkshake Taro" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
-
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Restaurant, Cafe".
+             
 p:P11        d:namaMinuman	        "Wedang Jahe" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Food Court, Restaurant Tradisional".
 
 p:P12        d:namaMinuman	        "Wedang Ronde" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Food Court, Restaurant Tradisional".
 
 p:P13        d:namaMinuman	        "Kopi Hitam" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Warung Kopi".
 
 p:P14        d:namaMinuman	        "Kopi Americano" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Warung Kopi".
 
 p:P15        d:namaMinuman	        "Kopi Espresso" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant".
 
 p:P16        d:namaMinuman	        "Kopi Cappucino" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Warung Kopi".
 
 p:P17        d:namaMinuman	        "Kopi Affogato" ;
              d:JenisMinuman       	"Minuman Panas" ;
-             d:Pemanis              "es krim" ;
-             d:Usia                 "Dewasa".
+             d:Pemanis              "Es krim" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant".
 
 p:P18        d:namaMinuman	        "Chatime Hazelnut Milk Tea" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Outlet Chatime".
 
 p:P19        d:namaMinuman	        "Chatime Brown Sugar" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula merah" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula merah dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Outlet Chatime".
 
 p:P20        d:namaMinuman	        "Chatime Roasted Milk Tea" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Outlet Chatime".
 
 p:P21        d:namaMinuman	        "Chatime Jasmine Green Tea" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Outlet Chatime".
 
 p:P22        d:namaMinuman	        "Chatime Caramel Milk Tea" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Outlet Chatime".
 
 p:P23        d:namaMinuman	        "Es Krim" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Cafe, Supermarket, Outlet Es Krim".
 
 p:P24        d:namaMinuman	        "Es Doger" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu, Gula Merah" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Merah dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Pedagang keliling".
 
 p:P25        d:namaMinuman	        "Es Cincau" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu, Gula Merah" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Merah dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Pedagang keliling".
 
 p:P26        d:namaMinuman	        "Es Kelapa" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Pedagang keliling".
 
 p:P27        d:namaMinuman	        "Es Cendol" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "Gula Merah" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Pedagang keliling".
 
 p:P28        d:namaMinuman	        "Es Goyobod" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant".
 
 p:P29        d:namaMinuman	        "Es Podeng" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant".
 
 p:P30        d:namaMinuman	        "Es Teller" ;
              d:JenisMinuman       	"Minuman Dingin" ;
-             d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pemanis              "Gula Pasir dan Susu" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Food Court, Cafe, Restaurant".
 
 p:P31        d:namaMinuman	        "Teh Manis" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Food Court, Cafe, Restaurant, Semua Tempat Makan".
 
 p:P32        d:namaMinuman	        "Teh Chamomile" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Cafe dan Restaurant".
 
 p:P33        d:namaMinuman	        "Teh Oolong" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa, Lanjut Usia";
+             d:Tersedia             "Cafe dan Restaurant".
 
 p:P34        d:namaMinuman	        "Teh Peppermint" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Cafe dan Restaurant".
 
 p:P35        d:namaMinuman	        "Teh Jahe" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Cafe dan Restaurant".
 
 p:P36        d:namaMinuman	        "Teh Hitam" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Cafe dan Restaurant".
 
 p:P37        d:namaMinuman	        "Beer Lager" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Buatan";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Bar dan Restaurant".
 
 p:P38        d:namaMinuman	        "Beer Ale" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "Sari Buah" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Buatan";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Bar dan Restaurant".
 
 p:P39        d:namaMinuman	        "Beer Pilsner" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Buatan";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Bar dan Restaurant".
 
 p:P40        d:namaMinuman	        "Beer Strout" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Buatan";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Bar dan Restaurant".
 
 p:P41        d:namaMinuman	        "Beer Cider" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Buatan";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Bar dan Restaurant".
 
 p:P42        d:namaMinuman	        "Amer Orangtua" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Buatan";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Bar dan Restaurant".
 
 p:P43        d:namaMinuman	        "Amer Colombus" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Buatan";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Bar dan Restaurant".
 
 p:P44        d:namaMinuman	        "Bajigur" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Susu" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Food Court, Warung Kopi, Restaurant Tradisional".
 
-p:P45        d:namaMinuman	        "Air Putih" ;
+p:P45        d:namaMinuman	        "Air Mineral Pristine" ;
              d:JenisMinuman       	"Minuman Normal" ;
              d:Pemanis              "-" ;
-             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Supermarket".
 
 p:P46        d:namaMinuman	        "Macchiato" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Susu" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Cafe, Food Court, Restaurant".
 
 p:P47        d:namaMinuman	        "Flat White" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Susu" ;
-             d:Usia                 "Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa";
+             d:Tersedia             "Cafe, Food Court, Restaurant".
 
 p:P48        d:namaMinuman	        "Teh Ginseng" ;
              d:JenisMinuman       	"Minuman Panas" ;
              d:Pemanis              "Gula Pasir" ;
-             d:Usia                 "Dewasa, Lanjut Usia".
+             d:Pengawet             "Alami";
+             d:Usia                 "Dewasa, Lanjut Usia";
+             d:Tersedia             "Cafe, Food Court, Restaurant".
 
 p:P49        d:namaMinuman	        "Es Milo" ;
              d:JenisMinuman       	"Minuman Dingin" ;
              d:Pemanis              "Susu" ;
-             d:Usia                 "Anak-anak, Dewasa".
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa";
+             d:Tersedia             "Cafe, Food Court, Restaurant".
+
+p:P50        d:namaMinuman	        "Air Mineral LeMineral" ;
+             d:JenisMinuman       	"Minuman Normal" ;
+             d:Pemanis              "-" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Supermarket".
+
+p:P51        d:namaMinuman	        "Air Mineral Aqua" ;
+             d:JenisMinuman       	"Minuman Normal" ;
+             d:Pemanis              "-" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Supermarket".
+
+p:P52        d:namaMinuman	        "Air Mineral Vit" ;
+             d:JenisMinuman       	"Minuman Normal" ;
+             d:Pemanis              "-" ;
+             d:Pengawet             "Alami";
+             d:Usia                 "Anak-anak, Dewasa, Lanjut Usia";
+             d:Tersedia             "Supermarket".
+
+             
 
 
 
