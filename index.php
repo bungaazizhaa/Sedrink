@@ -31,19 +31,17 @@
       PREFIX p: <http://sedrinks.com>
       PREFIX d: <http://sedrinks.com/ns/data#>
 
-      SELECT ?Minuman ?jenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia 
+      SELECT ?Minuman ?JenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia 
       WHERE
       { 
           ?s  d:namaMinuman ?Minuman ;
-              d:jenisMinuman ?jenisMinuman;
+              d:JenisMinuman ?JenisMinuman;
               d:Pemanis ?Pemanis;
               d:Pengawet ?Pengawet;
               d:Usia ?Usia;
               d:Tersedia ?Tersedia;
-              FILTER regex(?Minuman,  '$test')
-      
-      }
-            "
+              FILTER (regex (?Minuman,  '$test', 'i') || regex (?JenisMinuman,  '$test', 'i') || regex (?Pemanis,  '$test', 'i') || regex (?Pengawet,  '$test', 'i') || regex (?Usia,  '$test', 'i') || regex (?Tersedia,  '$test', 'i'))
+            }"
     );
   } else {
     $data = sparql_get(
@@ -52,11 +50,11 @@
       PREFIX p: <http://sedrinks.com>
       PREFIX d: <http://sedrinks.com/ns/data#>
 
-      SELECT ?Minuman ?jenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia
+      SELECT ?Minuman ?JenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia
       WHERE
       { 
           ?s  d:namaMinuman ?Minuman ;
-              d:jenisMinuman ?jenisMinuman;
+              d:JenisMinuman ?JenisMinuman;
               d:Pemanis ?Pemanis;
               d:Pengawet ?Pengawet;
               d:Usia ?Usia;
@@ -305,11 +303,11 @@
 <?php $i = 0; ?>
 <?php foreach ($data as $dat) : ?>
   <div class="col-md-4">
-  <div class="box">
+  <div class="box"> 
+    <ul class="list-group list-group-flush">
           <div class="header-data"> <b>Nama Minuman :</b></div>
           <div class="item-data"><?= $dat['Minuman'] ?></div>
-      <ul class="list-group list-group-flush">
-      
+  
           <div class="header-data"> <b>Jenis Minuman :</b></div>
           <div class="item-data"><?= $dat['JenisMinuman'] ?></div>
         
@@ -318,15 +316,14 @@
 
           <div class="header-data"> <b>Pengawet :</b></div>
           <div class="item-data"><?= $dat['Pengawet'] ?></div>
-        
+
           <div class="header-data"> <b>Usia :</b></div>
           <div class="item-data"><?= $dat['Usia'] ?></div>
 
           <div class="header-data"> <b>Tersedia Di :</b></div>
           <div class="item-data"><?= $dat['Tersedia'] ?></div>
-        
-      </ul>
 
+      </ul>
     </div>
   </div>
 

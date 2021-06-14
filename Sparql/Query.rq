@@ -1,7 +1,7 @@
 PREFIX p: <http://sedrinks.com>
 PREFIX d: <http://sedrinks.com/ns/data#>
 
-    SELECT ?Minuman ?jenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia 
+    SELECT ?Minuman ?JenisMinuman ?Pemanis ?Pengawet ?Usia ?Tersedia 
     WHERE
     { 
         ?s  d:namaMinuman ?Minuman ;
