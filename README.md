@@ -1,6 +1,6 @@
 # Sedrink
 
-Sedrinks adalah sebuah website pencarian menu minuman. 
+Sedrinks adalah sebuah website pencarian menu minuman dengan menggunakan web semantik. 
 Dengan Sedrinks, anda bisa mengetahui segala tentang minuman yang akan anda pesan. 
 Sehingga tidak khawatir lagi dengan kandungan minumandan tentunya tidak salah memilih 
 jenis minuman yang aman untuk disajikan bersama orang orang terdekat anda. 
